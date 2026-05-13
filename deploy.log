@@ -1,0 +1,10 @@
+2026-05-13 18:24:26 deploy start
+2026-05-13 18:24:26 sources: no-pricing=10310898 bytes, priced=9809577 bytes
+2026-05-13 18:24:26 copied to repo folder
+2026-05-13 18:24:27 ERROR: The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-05-13 18:26:25 deploy start (git=C:\Users\valen\AppData\Local\GitHubDesktop\app-3.5.8\resources\app\git\cmd\git.exe)
+2026-05-13 18:26:25 sources: no-pricing=10310898 bytes, priced=9809577 bytes
+2026-05-13 18:26:25 copied to repo folder
+2026-05-13 18:26:28 fetch+pull done
+2026-05-13 18:36:35 PUSH FAILED exit=1 output=To https://github.com/vicwallets/Inventory.git  ! [rejected]        main -> main (non-fast-forward) error: failed to push some refs to 'https://github.com/vicwallets/Inventory.git' hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. If you want to integrate the remote changes, hint: use 'git pull' before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2026-05-13 18:36:35 deploy end
